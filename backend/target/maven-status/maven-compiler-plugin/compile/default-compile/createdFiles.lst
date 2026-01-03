@@ -1,0 +1,17 @@
+com/example/demo/HelloController$Greeting.class
+com/example/demo/service/EmbeddingClient.class
+com/example/demo/config/WebClientConfig.class
+com/example/demo/service/AiClient$OllamaMessage.class
+com/example/demo/HelloController.class
+com/example/demo/DemoApplication.class
+com/example/demo/service/AiClient$ChatCompletionResponse.class
+com/example/demo/AskController$AskResponse.class
+com/example/demo/service/AiClient$OllamaChatResponse.class
+com/example/demo/AskController$AskRequest.class
+com/example/demo/service/EmbeddingClient$EmbedResponse.class
+com/example/demo/service/RagService.class
+com/example/demo/service/AiClient$Choice.class
+com/example/demo/AskController$IngestRequest.class
+com/example/demo/service/AiClient.class
+com/example/demo/AskController.class
+com/example/demo/service/AiClient$Message.class

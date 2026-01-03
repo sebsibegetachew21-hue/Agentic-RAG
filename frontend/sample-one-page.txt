@@ -1,0 +1,1 @@
+This is a sample one-page text file containing a single paragraph for testing uploads and previews. It discusses nothing fancy—just enough words to confirm that your pipeline reads and processes text content correctly.
